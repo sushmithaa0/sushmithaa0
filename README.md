@@ -40,21 +40,20 @@ I'm a passionate Data Analyst skilled in Python, MSSQL, PowerBI, Tableau, Excel,
 ### [Customer Segmentation Analysis](https://github.com/sushmithaa0/customer_segmentation.git)
 
 
-[![Project Image](link_to_project_image)](https://banner2.cleanpng.com/20180425/xgw/kisspng-customer-service-business-customer-experience-5ae0f592136b71.6604322315246923700796.jpg)
+[![Project Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTXGaeoOmBjk4WCiqO6ywWHgrZi6wcXNhqQWLPQFpQQ&s)]
 
 
-
+Segmenting customers based on demographic and behavioral traits for analysisng past marketting campaign performance and making better marketting strategy for future
 
 
 ### [Hotel Revenue Insights](https://github.com/sushmithaa0/hospitality_dashboard.git)
 
 
 
-[![Project Image](link_to_project_image)
-](https://static.vecteezy.com/system/resources/previews/015/694/767/original/skyscraper-hotel-building-flat-cartoon-hand-drawn-illustration-template-with-view-on-city-space-of-street-panorama-design-vector.jpg)
+[![Project Image](https://static.vecteezy.com/system/resources/thumbnails/018/245/920/small_2x/hotel-building-tower-with-five-stars-thin-line-icon-png.png)]
 
 
-
+PowerBI dashboard project aims to analyze revenue, booking patterns, regional performance, hotel ratings, and cancellation rates in the hospitality industry
 
 
 
@@ -62,17 +61,17 @@ I'm a passionate Data Analyst skilled in Python, MSSQL, PowerBI, Tableau, Excel,
 
 
 
-[![Project Image](link_to_project_image)](https://customerthink.com/wp-content/uploads/Blog_Image-100.png)
+[![Project Image](https://cdn-icons-png.flaticon.com/256/809/809521.png)]
 
 
-
+ analyzing customer behavior using a dataset containing customer transaction records using SQL for finding patterns in purchasing,popular products and so on
 
 
 
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushmithaan/)
+- LinkedIn: [Sushmithaa N](https://www.linkedin.com/in/sushmithaan/)
 
 
 Feel free to connect with me! I'm always open to new opportunities and collaborations.
